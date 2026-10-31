@@ -1,0 +1,107 @@
+{
+ "national": {
+  "synthetic": null,
+  "real": 51.62
+ },
+ "by_region": [
+  {
+   "region": "Ahvenanmaa",
+   "synthetic": null,
+   "real": 41.43
+  },
+  {
+   "region": "Etelä-Karjala",
+   "synthetic": null,
+   "real": 53.74
+  },
+  {
+   "region": "Etelä-Pohjanmaa",
+   "synthetic": null,
+   "real": 66.61
+  },
+  {
+   "region": "Etelä-Savo",
+   "synthetic": null,
+   "real": 53.24
+  },
+  {
+   "region": "Kainuu",
+   "synthetic": null,
+   "real": 53.47
+  },
+  {
+   "region": "Kanta-Häme",
+   "synthetic": null,
+   "real": 52.61
+  },
+  {
+   "region": "Keski-Pohjanmaa",
+   "synthetic": null,
+   "real": 59.26
+  },
+  {
+   "region": "Keski-Suomi",
+   "synthetic": null,
+   "real": 47.78
+  },
+  {
+   "region": "Kymenlaakso",
+   "synthetic": null,
+   "real": 54.7
+  },
+  {
+   "region": "Lappi",
+   "synthetic": null,
+   "real": 49.21
+  },
+  {
+   "region": "Pirkanmaa",
+   "synthetic": null,
+   "real": 48.73
+  },
+  {
+   "region": "Pohjanmaa",
+   "synthetic": null,
+   "real": 60.18
+  },
+  {
+   "region": "Pohjois-Karjala",
+   "synthetic": null,
+   "real": 49.54
+  },
+  {
+   "region": "Pohjois-Pohjanmaa",
+   "synthetic": null,
+   "real": 52.6
+  },
+  {
+   "region": "Pohjois-Savo",
+   "synthetic": null,
+   "real": 50.49
+  },
+  {
+   "region": "Päijät-Häme",
+   "synthetic": null,
+   "real": 54.88
+  },
+  {
+   "region": "Satakunta",
+   "synthetic": null,
+   "real": 52.98
+  },
+  {
+   "region": "Uusimaa",
+   "synthetic": null,
+   "real": 49.7
+  },
+  {
+   "region": "Varsinais-Suomi",
+   "synthetic": null,
+   "real": 51.52
+  }
+ ],
+ "r": null,
+ "mae_points": null,
+ "note": "pending live run: real 2024 runoff by region from Statistics Finland (StatFin 14d5); synthetic re-vote not yet run.",
+ "preliminary": true
+}

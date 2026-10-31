@@ -1,0 +1,121 @@
+{
+ "Uusimaa": {
+  "stubb_pct": 49.7,
+  "haavisto_pct": 50.3,
+  "stubb_votes": 473593,
+  "haavisto_votes": 479287
+ },
+ "Varsinais-Suomi": {
+  "stubb_pct": 51.52,
+  "haavisto_pct": 48.48,
+  "stubb_votes": 141280,
+  "haavisto_votes": 132969
+ },
+ "Satakunta": {
+  "stubb_pct": 52.98,
+  "haavisto_pct": 47.02,
+  "stubb_votes": 60836,
+  "haavisto_votes": 54003
+ },
+ "Päijät-Häme": {
+  "stubb_pct": 54.88,
+  "haavisto_pct": 45.12,
+  "stubb_votes": 61376,
+  "haavisto_votes": 50468
+ },
+ "Kanta-Häme": {
+  "stubb_pct": 52.61,
+  "haavisto_pct": 47.39,
+  "stubb_votes": 49162,
+  "haavisto_votes": 44276
+ },
+ "Pirkanmaa": {
+  "stubb_pct": 48.73,
+  "haavisto_pct": 51.27,
+  "stubb_votes": 149635,
+  "haavisto_votes": 157446
+ },
+ "Etelä-Savo": {
+  "stubb_pct": 53.24,
+  "haavisto_pct": 46.76,
+  "stubb_votes": 38148,
+  "haavisto_votes": 33507
+ },
+ "Kymenlaakso": {
+  "stubb_pct": 54.7,
+  "haavisto_pct": 45.3,
+  "stubb_votes": 47251,
+  "haavisto_votes": 39126
+ },
+ "Etelä-Karjala": {
+  "stubb_pct": 53.74,
+  "haavisto_pct": 46.26,
+  "stubb_votes": 37619,
+  "haavisto_votes": 32380
+ },
+ "Pohjois-Karjala": {
+  "stubb_pct": 49.54,
+  "haavisto_pct": 50.46,
+  "stubb_votes": 42610,
+  "haavisto_votes": 43398
+ },
+ "Pohjois-Savo": {
+  "stubb_pct": 50.49,
+  "haavisto_pct": 49.51,
+  "stubb_votes": 68264,
+  "haavisto_votes": 66936
+ },
+ "Etelä-Pohjanmaa": {
+  "stubb_pct": 66.61,
+  "haavisto_pct": 33.39,
+  "stubb_votes": 66150,
+  "haavisto_votes": 33152
+ },
+ "Keski-Pohjanmaa": {
+  "stubb_pct": 59.26,
+  "haavisto_pct": 40.74,
+  "stubb_votes": 21079,
+  "haavisto_votes": 14492
+ },
+ "Pohjanmaa": {
+  "stubb_pct": 60.18,
+  "haavisto_pct": 39.82,
+  "stubb_votes": 59825,
+  "haavisto_votes": 39582
+ },
+ "Keski-Suomi": {
+  "stubb_pct": 47.78,
+  "haavisto_pct": 52.22,
+  "stubb_votes": 71966,
+  "haavisto_votes": 78659
+ },
+ "Pohjois-Pohjanmaa": {
+  "stubb_pct": 52.6,
+  "haavisto_pct": 47.4,
+  "stubb_votes": 114123,
+  "haavisto_votes": 102829
+ },
+ "Kainuu": {
+  "stubb_pct": 53.47,
+  "haavisto_pct": 46.53,
+  "stubb_votes": 19235,
+  "haavisto_votes": 16739
+ },
+ "Lappi": {
+  "stubb_pct": 49.21,
+  "haavisto_pct": 50.79,
+  "stubb_votes": 47059,
+  "haavisto_votes": 48575
+ },
+ "Ahvenanmaa": {
+  "stubb_pct": 41.43,
+  "haavisto_pct": 58.57,
+  "stubb_votes": 6233,
+  "haavisto_votes": 8810
+ },
+ "_national": {
+  "stubb_pct": 51.62,
+  "haavisto_pct": 48.38
+ },
+ "_source": "Statistics Finland PxWeb StatFin/pvaa/14d5 (2024 presidential election, second round, votes by municipality aggregated to maakunta via StatFin kunta2024->maakunta2024 key)"
+}
